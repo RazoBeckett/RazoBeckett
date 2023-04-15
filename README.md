@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 📫 How to reach me **	mailtorazobeckett@proton.me**
+- 📫 How to reach me **mailtorazobeckett@proton.me**
 
 - ⚡ Fun fact **I'm end of myself**
 
