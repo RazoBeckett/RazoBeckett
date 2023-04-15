@@ -1,5 +1,5 @@
 [![MasterHead](https://www.ics.com.ph/file-manager/file-manager/Core%20Competencies/Edge-2.gif)](https://linktr.ee/razobeckett)
-<h1 align="center">Hi 👋, I'm Razo Beckett</h1>
+<h1 align="center">Hi 👋, I'm Mayur Raut</h1>
 <h3 align="center">My passion lies in the realm of tech and electronics, specifically focused on cloud computing and networking.</h3>
 
 <img align="right" alt="Cloud" width="400" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **razobeckett@proton.me**
 
-- ⚡ Fun fact **My Real Name is Mayur Raut**
+- ⚡ Fun fact **I'm end of myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
