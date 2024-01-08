@@ -21,7 +21,7 @@
 
 - ✉️  You can contact me at **mailtorazobeckett@proton.me**.
 
-- ❄️  I use [Artix](https://artixlinux.org) btw.
+- ❄️  I use [Arch](https://archlinux.org/) btw.
 
 ### Skills:
 <p align="left">
