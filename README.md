@@ -9,10 +9,12 @@
 
 <!--<img align="right" alt="Cloud" width="400" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">-->
 <img align="right" alt="Cloud" width="380" height="340" src="computer-sunset-screensaver.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razobeckett&label=Profile%20views&color=0e75b6&style=flat" alt="razobeckett" /> </p>
-<!--
-<p align="left"> <a href="https://twitter.com/razobeckett" target="blank"><img src="https://img.shields.io/twitter/follow/razobeckett?logo=twitter&style=for-the-badge" alt="razobeckett" /></a> </p>
--->
+<p align="left">
+  <!-- <a href="https://twitter.com/razobeckett" target="blank"><img src="https://img.shields.io/twitter/follow/razobeckett?logo=twitter&style=for-the-badge" alt="razobeckett" /> -->
+  <img src="https://komarev.com/ghpvc/?username=razobeckett&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> 
+  <img src="https://wakatime.com/badge/user/018be760-4a7d-4395-9274-cc01f2dffbad.svg" alt="wakatime" />
+</p>
+
 - ⚒️  Check out: <a href="https://github.com/stars/RazoBeckett/lists/my-projects" target="blank">My Projects</a>
 
 - 🌱  I’m currently learning **[Docker](https://www.docker.com)**, **[Ansible](https://www.ansible.com)** and **[Python](https://www.python.org)**.
