@@ -2,9 +2,7 @@
 
 <p align="center">Aspiring System Administrator passionate about optimizing infrastructure performance and honing technical skills. Eager to learn and contribute to the field of IT operations. Enthusiastic about leveraging technology to drive efficiency and reliability.</p>
 
-<p align="center">
-  <img src="computer-sunset-screensaver.gif" alt="Cloud" width="380" height="340" align="right">
-</p>
+<img src="computer-sunset-screensaver.gif" alt="Cloud" width="380" height="340" align="right">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=razobeckett&label=Profile%20views&color=0e75b6&style=flat" alt="views">
