@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=razobeckett&label=Profile%20views&color=0e75b6&style=flat" alt="views">
-  <img src="https://wakatime.com/badge/user/018be760-4a7d-4395-9274-cc01f2dffbad.svg" alt="wakatime">
+  <a href="https://wakatime.com/@razobeckett" target="_blank">
+      <img src="https://wakatime.com/badge/user/018be760-4a7d-4395-9274-cc01f2dffbad.svg" alt="wakatime">
+  </a>
 </p>
 
 <h4 align="center">Core Skills:</h4>
