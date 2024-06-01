@@ -1,8 +1,8 @@
-# Mayur Raut [(@razobeckett)](https://linktr.ee/razobeckett)
+# 🛫 Mayur Raut
 
 I'm a tech enthusiast with a passion for self-hosting, system administration, and optimizing infrastructure. I enjoy discovering new services, deploying applications with Docker, and maintaining servers to ensure 100% uptime. My journey through diverse Linux distributions, especially Arch, has equipped me with a robust skill set for reliable and efficient IT operations.
 
-![Profile views](https://komarev.com/ghpvc/?username=razobeckett&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile views](https://komarev.com/ghpvc/?username=razobeckett&label=Profile%20views&color=0e75b6&style=flat)](https://linktr.ee/razobeckett)
 [![wakatime](https://wakatime.com/badge/user/018be760-4a7d-4395-9274-cc01f2dffbad.svg)](https://wakatime.com/@razobeckett)
 
 ---
