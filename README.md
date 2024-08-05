@@ -10,15 +10,7 @@ I'm a tech enthusiast with a passion for self-hosting, system administration, an
 
 ---
 ### 🧰 Languages and Tools
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-dark.svg" alt="C"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-dark.svg" alt="Python"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-dark.svg" alt="Git"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-dark.svg" alt="linux"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" alt="bash"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-dark.svg" alt="Docker"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-dark.svg" alt="aws-ec2"></a>
-<a href="#"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-dark.svg" alt="Go*"></a>
-
+[![My Skills](https://skillicons.dev/icons?i=c,python,git,linux,bash,docker,aws,md,go,ansible&theme=dark)](https://skillicons.dev)
 <br />
 
 <h3>💻 GitHub Profile Stats</h3>
