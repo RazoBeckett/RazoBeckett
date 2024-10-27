@@ -6,7 +6,7 @@ I'm a tech enthusiast with a passion for self-hosting, system administration, an
 [![Wakatime Profile](https://wakatime.com/badge/user/018be760-4a7d-4395-9274-cc01f2dffbad.svg?style=for-the-badge)](https://wakatime.com/@razobeckett)
 [![Profile Followers](https://custom-icon-badges.demolab.com/github/followers/RazoBeckett?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/RazoBeckett?tab=followers)
 [![Profile Stars](https://custom-icon-badges.demolab.com/github/stars/RazoBeckett?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/RazoBeckett?tab=repositories)
-[![Email](https://custom-icon-badges.demolab.com/badge/EMAIL-red?style=for-the-badge&logo=rb-atemail48-white)](mailto:mailtorazobeckett@proton.me)
+[![Email](https://custom-icon-badges.demolab.com/badge/EMAIL-red?style=for-the-badge&logo=rb-atemail48-white)](mailto:mayurraut.dev@gmail.com)
 
 
 ---
