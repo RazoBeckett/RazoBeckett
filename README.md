@@ -26,4 +26,4 @@ I'm a tech enthusiast with a passion for self-hosting, system administration, an
 
 #
 <a href="https://archlinux.org"><img src="https://custom-icon-badges.demolab.com/badge/-I%20USE%20ARCH%20BTW-black?style=for-the-badge&logo=arch-btw&logoColor=white" alt="neovim-btw"/></a>
-<a href="https://neovim.io"><img src="https://custom-icon-badges.demolab.com/badge/-CERTIFIED%20NEOVIMER-black?style=for-the-badge&logo=neovim-colored&logoColor=white" alt="neovim-btw"/></a>
+<a href="https://github.com/razobeckett/nvim"><img src="https://custom-icon-badges.demolab.com/badge/-CERTIFIED%20NEOVIMER-black?style=for-the-badge&logo=neovim-colored&logoColor=white" alt="neovim-btw"/></a>
